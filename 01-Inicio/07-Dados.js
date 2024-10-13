@@ -1,0 +1,27 @@
+// Criando uma variavel 
+// "iniciando o tipo da varivel" "nome identificador da variavel" podendo ou nao ser instancianda com valor inicial "= valor desejado";
+
+// Utilizar bons nomes
+
+let preco = 19.90;
+let desconto = 0.4;
+
+console.log(19.9 * 0.6);
+
+console.log( preco * ( 1 - desconto ));
+
+let precoComDesconto = preco * ( 1 - desconto );
+
+console.log(precoComDesconto);
+
+
+let nome = "Caderno"; // String => seguencia de símbolos
+let categoria = "Papelaria";
+console.log("Produto: " + nome 
+    + ", Categoria: " + categoria
+    + ", Preço: " + preco
+    + ", Desconto: " + desconto
+)
+
+console.log(1 + 1); // soma os numeros.
+console.log(" 1 + 1 "); // concatena os dados.
