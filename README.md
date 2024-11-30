@@ -39,6 +39,7 @@ Este repósitorio tem como objetivo armazenar todo o conhecimento adquirido no c
 
 -	Agora será necessário efetuar um clone do repositório através dos seguintes passos.
 	-	Ir até a pasta ou local desejável para efetuar o download do repositório > clicar com o botão esquerdo do mouse > selecionar o terminal de sua preferencia (Recomendado: Git Bash) e executar o código abaixo.
+-	Ou efetuar o download da pasta direto : https://github.com/AllanR1991/Coder-WebModerno/archive/refs/heads/main.zip	
 ```bash
   npm clone https://github.com/Lucca-gOn/vitalhubteamwork.git
   cd vitalhubteamwork/vitalHub
