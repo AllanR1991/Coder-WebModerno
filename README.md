@@ -32,18 +32,17 @@ Este repósitorio tem como objetivo armazenar todo o conhecimento adquirido no c
 -	Base de estudos:
 	-	![Usemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)	
 
-## Baixar uma copia dos arquivos e instalar:
+## Obter uma copía do arquivos:
 
 -	Instalar o Git na maquina com GitBash de preferência:
 	-	https://git-scm.com/downloads
 
 -	Agora será necessário efetuar um clone do repositório através dos seguintes passos.
-	-	Ir até a pasta ou local desejável para efetuar o download do repositório > clicar com o botão esquerdo do mouse > selecionar o terminal de sua preferencia (Recomendado: Git Bash) e executar o código abaixo.
+	-	Ir até a pasta ou local desejável para efetuar o download do repositório
+ 	-	clicar com o botão esquerdo do mouse e selecionar o terminal de sua preferencia (Recomendado: Git Bash) e executar o código abaixo.
 -	Ou efetuar o download da pasta direto : https://github.com/AllanR1991/Coder-WebModerno/archive/refs/heads/main.zip	
 ```bash
-  npm clone https://github.com/Lucca-gOn/vitalhubteamwork.git
-  cd vitalhubteamwork/vitalHub
-  npm install
+  npm clone https://github.com/AllanR1991/Coder-WebModerno.git
 ```
 
     
